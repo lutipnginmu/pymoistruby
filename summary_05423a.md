@@ -1,0 +1,10 @@
+# Scratch
+
+Quick notes here.
+## Ideas
+
+1. one idea
+2. another idea
+## Changelog
+
+- v0.1: initial scaffold
